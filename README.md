@@ -39,7 +39,7 @@ This script utilizes the [German Mirror](https://libretranslate.de/) of LibreTra
 
 ### Why did you make this?
 
-I created ltranslate because I was inspired by [mariodujic's bash translate script](https://github.com/mariodujic/Bash-Translate). It was simple and demonstrated the power of the curl command, as well as the standard UNIX utilities. I did, however, wish to expand upon it, with the motivating factor being the utilization of LibreTranslate's API instead of Google's. LibreTranslate has far less language support (at the time of this writing), but is a fine FOSS alternative, so I decided it would be worth my time to write a variation on this.
+I created ltranslate because I was inspired by [mariodujic's bash translate script](https://github.com/mariodujic/Bash-Translate). It was simple and demonstrated the power of the curl command, as well as the standard UNIX utilities. I did, however, wish specifically to use a more FOSS friendly API, thus utilizing LibreTranslate instead of Google. LibreTranslate has far less language support (at the time of this writing), but is a fine FOSS alternative, so I decided it would be worth my time to write a variation on this.
 
 ### Better CLI Translation Tools
 
