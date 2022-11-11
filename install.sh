@@ -32,7 +32,7 @@ function install() {
                 sudo chmod 755 /usr/local/bin/ltranslate
             fi
         else
-            printf "install script exiting, no changes were made to bgit.\n"
+            printf "install script exiting, no changes were made to ltranslate.\n"
         fi
     fi
 }
