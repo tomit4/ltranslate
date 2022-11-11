@@ -3,7 +3,7 @@
 ## Preview
 [![asciicast](https://asciinema.org/a/X9mJ2Muy0Pjwm1tYsbj7yy4xm.svg)](https://asciinema.org/a/X9mJ2Muy0Pjwm1tYsbj7yy4xm)
 
-ltranslate is a simple translation tool written in bash. It was inspired by [mariodujic's bash translate script](https://github.com/mariodujic/Bash-Translate). The major difference is that ltranslate uses the [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) API instead.
+ltranslate is a simple translation tool written in bash. It was inspired by [mariodujic's bash translate script](https://github.com/mariodujic/Bash-Translate). The major difference is that ltranslate uses the [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) API instead of Google's.
 
 ### Installation
 
@@ -41,7 +41,7 @@ This script utilizes the [German Mirror](https://libretranslate.de/) of LibreTra
 
 I created ltranslate because I was inspired by [mariodujic's bash translate script](https://github.com/mariodujic/Bash-Translate). It was simple and demonstrated the power of the curl command, as well as the standard UNIX utilities. I did, however, wish to expand upon it, with the motivating factor being the utilization of LibreTranslate's API instead of Google's. LibreTranslate has far less language support (at the time of this writing), but is a fine FOSS alternative, so I decided it would be worth my time to write a variation on this.
 
-### Better CLI Translaton Tools
+### Better CLI Translation Tools
 
 For those of you wishing to simply get the most bang for your buck, you may want to check out [translate-shell](https://github.com/soimort/translate-shell).
 
