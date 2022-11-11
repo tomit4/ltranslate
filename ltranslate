@@ -26,7 +26,7 @@ dependencycheck() {
 main() {
     if [ $# -lt 3 ]; then
         printf "not enough arguments given\n\
-    usage: ltranslate sourcelang targetlang query\n"
+usage: ltranslate sourcelang targetlang query\n"
         exit 1
     fi
 
