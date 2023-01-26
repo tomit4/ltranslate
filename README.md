@@ -35,7 +35,7 @@ For example, if you wish to translate from English to Ukrainian:
 
 ### Changing the LibreTranslate Mirror
 
-This script utilizes the [German Mirror](https://libretranslate.de/) of LibreTranslate. Should you wish to change it, simply open up the ltranslate script in your favorite text editor and change the url variiable to whichever [Mirror](https://github.com/LibreTranslate/LibreTranslate#mirrors) you'd like.
+This script utilizes the [US Mirror](https://libretranslate.de/) of LibreTranslate. Should you wish to change it, simply open up the ltranslate script in your favorite text editor and change the url variiable to whichever [Mirror](https://github.com/LibreTranslate/LibreTranslate#mirrors) you'd like.
 
 ### Why did you make this?
 
